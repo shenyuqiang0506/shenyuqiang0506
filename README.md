@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm [你的名字] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hey there! I'm [山河不入心] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/sponsors/[你的GitHub用户名]"><img src="https://img.shields.io/badge/Sponsor-❤️-red?style=for-the-badge&logo=GitHub-Sponsors" alt="Sponsor"></a>
@@ -25,17 +25,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bash,docker,kubernetes,gcp,aws,java,go,python,react,nextjs,nodejs,tailwind,figma&perline=7" />
   </a>
-</p>
-
----
-
-### 📈 GitHub 活动 & 统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[你的GitHub用户名]&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="github stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[你的GitHub用户名]&theme=tokyo-night&hide_border=true&area=true" alt="github activity graph"/>
 </p>
 
 ---
