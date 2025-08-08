@@ -5,17 +5,18 @@
 </p>
 
 <p align="center">
-  <em>一位来自 [你的城市] 的 [你的职业]，热衷于构建有趣且实用的东西 🚀</em>
+  <em>一位来自 [厦门] 的 [学生]，热衷于构建有趣且实用的东西 🚀</em>
 </p>
 
 ---
 
 ### ✨ 关于我多一点点
 
-- 🧠 热爱探索 [你的兴趣领域1] 和 [你的兴趣领域2]。
+- 🧠 热爱探索 [计算机] 和 [开源项目]。
 - 💡 坚信技术是创造未来的魔法。
-- 📚 最近在读的书是《[你最近在读的书]》。
-- ⚡️ 一个有趣的事实：[关于你的一个有趣的事实，例如：我可以用三种乐器演奏《小星星》]。
+- 📚 最近在读的书是《数据结构》。
+
+[//]: # (- ⚡️ 一个有趣的事实：[关于你的一个有趣的事实，例如：我可以用三种乐器演奏《小星星》]。)
 
 ---
 
@@ -23,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,docker,kubernetes,gcp,aws,java,go,python,react,nextjs,nodejs,tailwind,figma&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git,bash,docker,kubernetes,java,python,nodejs&perline=7" />
   </a>
 </p>
 
@@ -37,10 +38,15 @@
 
 ---
 
-### 💌 找到我
+[//]: # (### 💌 找到我)
 
-<p align="center">
-  <a href="mailto:[你的邮箱]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/[你的LinkedIn用户名]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://space.bilibili.com/[你的B站ID]"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
-</p>
+[//]: # ()
+[//]: # (<p align="center">)
+
+[//]: # (  <a href="mailto:[你的邮箱]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>)
+
+[//]: # (  <a href="https://www.linkedin.com/in/[你的LinkedIn用户名]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>)
+
+[//]: # (  <a href="https://space.bilibili.com/[你的B站ID]"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>)
+
+[//]: # (</p>)
